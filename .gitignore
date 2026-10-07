@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Renders, stems, whisper transcripts (may contain copyrighted audio/lyrics)
+out/
+
+# Copyrighted inputs: never commit audio or lyrics
+*.mp3
+*.m4a
+*.wav
+*.flac
+*.aac
+*.ogg
+*.lrc

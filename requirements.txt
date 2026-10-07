@@ -1,0 +1,5 @@
+numpy>=2.0
+pillow>=10.0
+# Optional, only for align_lyrics.py --vocals (vocal separation)
+# demucs>=4.0
+# soundfile>=0.12
