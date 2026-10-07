@@ -6,7 +6,9 @@
 
 ![场景预览](docs/images/scene-1.jpg)
 
-**成品视频**：[下载 money-mv.mp4](https://github.com/roy2100/money-mv/releases/download/v1.0.0/money-mv.mp4)（90 秒，1280x720，原创配乐版，见 [Release v1.0.0](https://github.com/roy2100/money-mv/releases/tag/v1.0.0)）
+**成品视频**：[下载 money-mv.mp4](https://github.com/roy2100/money-mv/releases/download/v1.0.0/money-mv.mp4)（90 秒，1280x720，原创配乐版，见 [Release v1.0.0](https://github.com/roy2100/money-mv/releases/tag/v1.0.0)  
+
+
 
 ## 画面
 
